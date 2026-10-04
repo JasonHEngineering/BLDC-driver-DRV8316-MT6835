@@ -19,7 +19,7 @@ The magnet is on the opposite of the MT6835 absolute encoder package, and is abo
 <img width="732" height="298" alt="image" src="https://github.com/user-attachments/assets/f95a3e84-a90a-4e94-954b-765c846e3238" />
 
 
-3 boards connected over CAN bus. 2 of these boards have solder bridge (jumper) for CAN termination
+3 boards connected over CAN bus. 2 of these boards have solder bridge (jumper) for CAN termination. 
 <img width="1319" height="686" alt="image" src="https://github.com/user-attachments/assets/9055fb1c-4d24-4ab4-82ce-ef7f1553c305" />
 
 
