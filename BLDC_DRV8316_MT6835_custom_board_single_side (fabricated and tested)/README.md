@@ -13,6 +13,7 @@ Board with BLDC GB2806 mounted, along with a 6 mm diametric magnet mounted direc
 
 <img width="1155" height="757" alt="image" src="https://github.com/user-attachments/assets/8e7a8cd5-ab9c-426f-9beb-ecb82d087f0e" />
 
+The magnet is on the opposite of the MT6835 absolute encoder package, and is about 1 mm above the PCBA
 
 <img width="732" height="298" alt="image" src="https://github.com/user-attachments/assets/f95a3e84-a90a-4e94-954b-765c846e3238" />
 
