@@ -2,7 +2,7 @@
 
 Custom PCBA build BLDC driver based on DRV8316 and absolute encoder MT6835
 
-This is a single sided assembly version that is also more economical:
+This is a slightly bigger version that was actually fabricated is also more economical due to 1-sided SMD assembly:
 
 <img width="248" height="286" alt="image" src="https://github.com/user-attachments/assets/50c3ea64-6302-4c30-b269-bb544ed0e9e3" />
 
