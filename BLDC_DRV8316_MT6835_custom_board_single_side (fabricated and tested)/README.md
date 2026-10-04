@@ -2,6 +2,9 @@
 
 Custom PCBA build BLDC driver based on DRV8316 and absolute encoder MT6835, which allows for driving a BLDC already. There is also a CAN transceiver SN65HVD230DR on board for conducting CAN communication.
 
+Design notes for improvement:
+
+1) The schematic would show that the MT6835 Vdd is connected to 5V. This is not healthy for SPI bus that are 3v3 intended. While in general the devices are working for now, I would need to note this in future iterations - Vdd should be powered with 3v3.
 
 This is a slightly bigger version that was actually fabricated is also more economical due to 1-sided SMD assembly:
 
