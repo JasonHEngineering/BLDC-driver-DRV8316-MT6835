@@ -1,6 +1,6 @@
 # BLDC driver DRV8316, MT6835
 
-Custom PCBA build BLDC driver based on DRV8316 and absolute encoder MT6835, which allows for driving a BLDC already. There is also a CAN transceiver SN65HVD230DR on board for conduction CAN communication.
+Custom PCBA build BLDC driver based on DRV8316 and absolute encoder MT6835, which allows for driving a BLDC already. There is also a CAN transceiver SN65HVD230DR on board for conducting CAN communication.
 
 
 This is a slightly bigger version that was actually fabricated is also more economical due to 1-sided SMD assembly:
