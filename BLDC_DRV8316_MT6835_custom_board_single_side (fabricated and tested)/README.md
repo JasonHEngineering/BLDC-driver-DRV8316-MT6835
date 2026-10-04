@@ -6,7 +6,7 @@ This is a single sided assembly version that is also more economical:
 
 <img width="248" height="286" alt="image" src="https://github.com/user-attachments/assets/50c3ea64-6302-4c30-b269-bb544ed0e9e3" />
 
-
+Soldering on 2 cables; 1 for the main power supply 8-24 V, and the other for the 3 phase BLDC 
 
 <img width="1651" height="895" alt="image" src="https://github.com/user-attachments/assets/8db0894d-9f7c-4f4c-9616-4c0888c42071" />
 
