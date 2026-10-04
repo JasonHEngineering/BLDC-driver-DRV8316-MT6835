@@ -1,0 +1,2 @@
+moves the BLDC GB2806 forward and backward 
+verified working 3-Oct-26
