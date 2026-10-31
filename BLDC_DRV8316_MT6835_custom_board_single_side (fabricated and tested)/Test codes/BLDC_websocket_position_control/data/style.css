@@ -1,0 +1,43 @@
+  body {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 40px;
+  }
+  h1 {
+    font-size: 64px;
+    margin-bottom: 0;
+  }
+  .logo
+{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 100px;
+}
+  .label {
+    font-size: 18px;
+    color: #666;
+    margin-top: 0;
+  }
+  p {
+    font-size: 22px;
+  }
+  #targetForm {
+    margin-top: 40px;
+  }
+  #targetInput {
+    font-size: 22px;
+    width: 120px;
+    padding: 6px;
+    text-align: center;
+  }
+  #sendBtn {
+    font-size: 20px;
+    padding: 6px 18px;
+    margin-left: 8px;
+  }
+  #moving {
+    font-weight: bold;
+  }
+  .moving-yes { color: #c0392b; }
+  .moving-no  { color: #27ae60; }

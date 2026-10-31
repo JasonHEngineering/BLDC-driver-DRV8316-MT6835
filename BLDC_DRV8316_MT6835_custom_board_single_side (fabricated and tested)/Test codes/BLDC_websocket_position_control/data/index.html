@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Encoder / BLDC</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<img src="Jason_H_Engineering_Logo_100_100_V1.png" class="logo">
+
+<h1 id="angle">0.00&deg;</h1>
+<p class="label">current encoder angle</p>
+
+<p>Target: <span id="targetDisplay">0.00</span>&deg;
+&nbsp;|&nbsp; Motor: <span id="moving" class="moving-no">idle</span></p>
+
+<p>Sequence: <span id="seq">0</span>
+&nbsp;|&nbsp; Encoder: <span id="status">--</span></p>
+
+<div id="targetForm">
+  <input type="number" id="targetInput" step="0.1" placeholder="deg">
+  <button id="sendBtn">Set Target</button>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
