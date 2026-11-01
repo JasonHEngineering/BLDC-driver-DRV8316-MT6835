@@ -2,11 +2,9 @@
 Custom PCBA build BLDC driver based on DRV8316 and absolute encoder MT6835
 
 WordPress:
-
 https://jashuang1983.wordpress.com/custom-pcba-bldc-driver-esp32-c6-mini-drv8316-mt6835-sh65hvd/
 
 YouTube:
-
 https://youtu.be/7OfQm1vRN5s
 
 
